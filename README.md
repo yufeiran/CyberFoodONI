@@ -2,6 +2,9 @@
 
 ![Cyber Food Workshop preview](workshop/preview.png)
 
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3773930750)
+· [GitHub source](https://github.com/yufeiran/CyberFoodONI)
+
 Cyber Food lets Bionic Duplicants consume a small tasting portion of ordinary
 food for morale. They do not need the calories—they simply miss the experience.
 
