@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Language: zh_CN\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. CyberFoodONI.STRINGS.DUPLICANTS.MODIFIERS.CYBERFOODONI_SENSORYDINING.NAME
+msgctxt "CyberFoodONI.STRINGS.DUPLICANTS.MODIFIERS.CYBERFOODONI_SENSORYDINING.NAME"
+msgid "Synthetic Dining Experience"
+msgstr "仿生感官用餐"
+
+#. CyberFoodONI.STRINGS.DUPLICANTS.MODIFIERS.CYBERFOODONI_SENSORYDINING.TOOLTIP
+msgctxt "CyberFoodONI.STRINGS.DUPLICANTS.MODIFIERS.CYBERFOODONI_SENSORYDINING.TOOLTIP"
+msgid "Taste, aroma and texture simulators provide the pleasure of dining without supplying usable energy. Bionic Duplicants insist that this is not wasting food, but high-precision sensory calibration."
+msgstr "味觉、嗅觉与口感模拟器提供用餐的愉悦体验，但不会供应可利用的能量。仿生人坚持认为，它不是在浪费食物，而是在进行高精度感官校准。"

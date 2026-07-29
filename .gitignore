@@ -1,0 +1,16 @@
+# Local reverse-engineering and build artifacts
+.reference/
+.tools/
+.vs/
+bin/
+obj/
+artifacts/
+*.user
+*.suo
+
+# Packaged mod output
+dist/
+
+# Rejected/archived Workshop artwork variants
+workshop/cyber-food-cover-source.png
+workshop/preview-v1.png
