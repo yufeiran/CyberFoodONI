@@ -4,6 +4,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. CyberFoodONI.STRINGS.UI.SETTINGS.TITLE
+msgctxt "CyberFoodONI.STRINGS.UI.SETTINGS.TITLE"
+msgid "Cyber Food Settings"
+msgstr "Cyber Food 设置"
+
+#. CyberFoodONI.STRINGS.UI.SETTINGS.MANAGE_TOOLTIP
+msgctxt "CyberFoodONI.STRINGS.UI.SETTINGS.MANAGE_TOOLTIP"
+msgid "Configure Cyber Food"
+msgstr "配置 Cyber Food"
+
+#. CyberFoodONI.STRINGS.UI.SETTINGS.OPTIONS_BUTTON
+msgctxt "CyberFoodONI.STRINGS.UI.SETTINGS.OPTIONS_BUTTON"
+msgid "Options"
+msgstr "选项"
+
+#. CyberFoodONI.STRINGS.UI.SETTINGS.DESCRIPTION
+msgctxt "CyberFoodONI.STRINGS.UI.SETTINGS.DESCRIPTION"
+msgid "Choose which original dining bonuses Bionic Duplicants receive in addition to Synthetic Dining Experience.\n\nOriginal food effects: {0}\nIncludes food quality morale, spices, garnish and food-specific effects.\n\nDining room effects: {1}\nIncludes Mess Hall and Great Hall meal effects.\n\nEnabled food and dining bonuses last 3 cycles for Bionic Duplicants.\n\nChanges apply to future meals and are saved globally."
+msgstr "选择仿生人在‘仿生感官用餐’之外还能获得哪些原版进餐加成。\n\n原版食物效果：{0}\n包括食物品质士气、香料、装饰配菜和菜品自带效果。\n\n餐厅效果：{1}\n包括食堂和高档餐厅的进餐效果。\n\n开启后，食物与餐厅加成对仿生人持续 3 周期。\n\n更改会从下一次进餐开始生效，并作为全局设置保存。"
+
+#. CyberFoodONI.STRINGS.UI.SETTINGS.FOOD_EFFECTS_BUTTON
+msgctxt "CyberFoodONI.STRINGS.UI.SETTINGS.FOOD_EFFECTS_BUTTON"
+msgid "Food Effects: {0}"
+msgstr "食物效果：{0}"
+
+#. CyberFoodONI.STRINGS.UI.SETTINGS.DINING_ROOM_BUTTON
+msgctxt "CyberFoodONI.STRINGS.UI.SETTINGS.DINING_ROOM_BUTTON"
+msgid "Dining Rooms: {0}"
+msgstr "餐厅效果：{0}"
+
+#. CyberFoodONI.STRINGS.UI.SETTINGS.ENABLED
+msgctxt "CyberFoodONI.STRINGS.UI.SETTINGS.ENABLED"
+msgid "ON"
+msgstr "开启"
+
+#. CyberFoodONI.STRINGS.UI.SETTINGS.DISABLED
+msgctxt "CyberFoodONI.STRINGS.UI.SETTINGS.DISABLED"
+msgid "OFF"
+msgstr "关闭"
+
+#. CyberFoodONI.STRINGS.UI.SETTINGS.DONE
+msgctxt "CyberFoodONI.STRINGS.UI.SETTINGS.DONE"
+msgid "Done"
+msgstr "完成"
+
 #. CyberFoodONI.STRINGS.DUPLICANTS.MODIFIERS.CYBERFOODONI_SENSORYDINING.NAME
 msgctxt "CyberFoodONI.STRINGS.DUPLICANTS.MODIFIERS.CYBERFOODONI_SENSORYDINING.NAME"
 msgid "Synthetic Dining Experience"

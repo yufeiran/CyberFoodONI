@@ -1,0 +1,64 @@
+[b]Cyber Food | 仿生感官用餐[/b]
+
+[h1]Version 1.1 / 1.1 版[/h1]
+[list]
+[*]Adds separate options for original food effects and dining-room effects
+[*]Original food effects include food-quality morale, spices, garnish and dish-specific effects
+[*]Dining-room effects include Mess Hall and Great Hall meal bonuses
+[*]Enabled food and room bonuses last 3 cycles for Bionic Duplicants
+[*]Both options are disabled by default and can be changed from Cyber Food's Options button in the Mods screen
+[/list]
+
+[list]
+[*]新增“原版食物效果”和“餐厅效果”两个独立选项
+[*]原版食物效果包括食物品质士气、香料、装饰配菜和菜品自带效果
+[*]餐厅效果包括食堂和高档餐厅的进餐加成
+[*]开启后，食物与餐厅加成都对仿生人持续 3 周期
+[*]两个选项默认关闭，可在 Mod 界面的 Cyber Food“选项”按钮中更改
+[/list]
+
+[img]https://raw.githubusercontent.com/yufeiran/CyberFoodONI/main/workshop/v1.1-bionic-dining.jpg[/img]
+
+[img]https://raw.githubusercontent.com/yufeiran/CyberFoodONI/main/workshop/v1.1-morale-stack.jpg[/img]
+
+[hr][/hr]
+
+Bionic Duplicants do not need ordinary food for survival—but they can still miss taste, aroma, texture, and the social ritual of dining.
+
+[i]Bionic Duplicants insist that this is not wasting food, but high-precision sensory calibration.[/i]
+
+[b]Core features[/b]
+[list]
+[*]Allows Bionic Duplicants to taste permitted ordinary food
+[*]Consumes only 200 kcal per dining experience
+[*]Grants +4 Morale for 3 cycles
+[*]The effect does not stack; they eat again only after it expires
+[*]Does not change Standard Duplicant behavior
+[/list]
+
+[b]Requirement[/b]
+The Bionic Booster Pack is required.
+
+[b]Inspiration[/b]
+Inspired by the treatment of cyborg food and remembered taste in Ghost in the Shell: S.A.C. 2nd GIG, especially episode 8, “Vegetarian Dinner / FAKE FOOD.” This is an unofficial fan-made mod and contains no Ghost in the Shell assets.
+
+[b]Source code[/b]
+[url=https://github.com/yufeiran/CyberFoodONI]GitHub — yufeiran/CyberFoodONI[/url]
+
+[hr][/hr]
+
+[b]中文说明[/b]
+
+仿生人不需要普通食物维持生存，但它们依然会怀念味道、气味、口感，以及和同伴一起吃饭的仪式感。
+
+[i]仿生人坚持认为，它不是在浪费食物，而是在进行高精度感官校准。[/i]
+
+[list]
+[*]可在“饮食”界面允许仿生人食用普通食物
+[*]每次仅消耗 200 千卡
+[*]获得 +4 士气，持续 3 周期
+[*]效果不叠加；结束后才会再次进食
+[*]不改变普通复制人的进食行为
+[/list]
+
+[b]需要安装仿生人强化包（Bionic Booster Pack）。[/b]
