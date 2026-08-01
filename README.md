@@ -25,10 +25,11 @@ Cyber Food 允许仿生人品尝少量普通食物来获得士气。食物不为
 - It grants **+4 morale for 3 cycles**.
 - The effect does not stack. Eating again becomes necessary only after it
   expires.
-- Food quality, spices, food-specific effects, garnish bonuses and dining-room
-  effects are suppressed for Bionic Duplicants.
+- Version 1.1 adds two independent global options for original food effects
+  and dining-room effects. Both are disabled by default to preserve the
+  original Cyber Food balance.
 - Standard Duplicants keep the original game behavior.
-- No new building, recipe or artwork is required.
+- No new building, recipe, artwork or library dependency is required.
 
 中文说明：
 
@@ -37,8 +38,38 @@ Cyber Food 允许仿生人品尝少量普通食物来获得士气。食物不为
 - 每次只消耗 **200 千卡**。
 - 获得 **+4 士气，持续 3 周期**。
 - 效果不会叠加；三周期结束后才会再次进食。
-- 不获得普通食物品质、香料、菜品特效、装饰配菜或餐厅房间加成。
+- 1.1 版新增“原版食物效果”和“餐厅效果”两个独立全局选项；默认均关闭，
+  以保持原有平衡。
 - 不改变普通复制人的进食机制。
+
+## Options / 设置
+
+Open ONI's **Mods** screen, select **Cyber Food**, and press **Manage** to
+change either option. Changes are saved to
+`mods/config/CyberFoodONI.json` and apply to future meals without restarting.
+
+- **Original food effects**: allows food quality morale, spices, garnish and
+  food-specific effects.
+- **Dining room effects**: allows Mess Hall and Great Hall meal effects.
+- Enabled bonuses stack with Cyber Food's own **+4 morale for 3 cycles**.
+- For Bionic Duplicants, enabled food-quality, spice, garnish,
+  food-specific and dining-room effects are synchronized to **3 cycles**.
+
+在《缺氧》的 **Mod** 界面中选择 **Cyber Food**，点击 **管理**即可切换两个
+选项。设置保存在 `mods/config/CyberFoodONI.json`，无需重启，从下一次进餐开始
+生效。
+
+- **原版食物效果**：允许食物品质士气、香料、装饰配菜和菜品自带效果。
+- **餐厅效果**：允许食堂和高档餐厅的进餐效果。
+- 开启后的加成会与 Cyber Food 自带的 **+4 士气 / 3 周期**叠加。
+- 对仿生人而言，开启后的食物品质、香料、装饰配菜、菜品和餐厅效果都会统一
+  持续 **3 周期**。
+
+### Version 1.1 in game / 1.1 实机效果
+
+![A Bionic Duplicant eating at a dining table](workshop/v1.1-bionic-dining.jpg)
+
+![Food quality, dining room and Cyber Food morale bonuses stacking](workshop/v1.1-morale-stack.jpg)
 
 Gunk production is deliberately not included in this MVP.
 

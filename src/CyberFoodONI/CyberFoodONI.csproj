@@ -29,12 +29,24 @@
       <HintPath>$(OniManagedPath)\Assembly-CSharp-firstpass.dll</HintPath>
       <Private>false</Private>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>$(OniManagedPath)\Newtonsoft.Json.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
     <Reference Include="UnityEngine">
       <HintPath>$(OniManagedPath)\UnityEngine.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>$(OniManagedPath)\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(OniManagedPath)\UnityEngine.UI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>$(OniManagedPath)\Unity.TextMeshPro.dll</HintPath>
       <Private>false</Private>
     </Reference>
   </ItemGroup>
